@@ -119,6 +119,71 @@ Rather than treating web and mobile as separate silos, I run **Playwright and Ma
 
 ---
 
+### 📝 Writings & Insights
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+<a href="https://www.linkedin.com/pulse/automating-web-mobile-one-go-playwright-maestro-anisur-rahman-tonu-dsqxc/">
+<img src="https://img.shields.io/badge/LinkedIn%20Article-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100%"/>
+</a>
+<br/><br/>
+<b><a href="https://www.linkedin.com/pulse/automating-web-mobile-one-go-playwright-maestro-anisur-rahman-tonu-dsqxc/">Automating Web & Mobile in One Go: Playwright + Maestro</a></b>
+<br/>
+<sub>How pairing Playwright and Maestro in one pipeline unifies web and mobile automation into a single strategy.</sub>
+</td>
+<td width="33%" valign="top" align="center">
+<a href="https://qabrains.com/maestro-the-future-of-ui-automation">
+<img src="https://qabrain-prod.s3.ap-south-1.amazonaws.com/blog/thumbnails/1052-696b9fd41fe16.png" width="100%"/>
+</a>
+<br/><br/>
+<b><a href="https://qabrains.com/maestro-the-future-of-ui-automation">Maestro: The Future of UI Automation</a></b>
+<br/>
+<sub>Why Maestro's YAML-based, interpreted approach strips out much of the pain in traditional mobile UI testing.</sub>
+</td>
+<td width="33%" valign="top" align="center">
+<a href="https://qabrains.com/playwright-architecture-basics">
+<img src="https://qabrain-prod.s3.ap-south-1.amazonaws.com/blog/contents/242-6910fbd0188ef.png" width="100%"/>
+</a>
+<br/><br/>
+<b><a href="https://qabrains.com/playwright-architecture-basics">Playwright Architecture — Basics</a></b>
+<br/>
+<sub>A layer-by-layer breakdown of how Playwright commands travel from test script to browser engine.</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center">
+<a href="https://qabrains.com/understanding-playwright-fixtures-theoretical-explanation">
+<img src="https://qabrain-prod.s3.ap-south-1.amazonaws.com/blog/contents/246-6914652b4069f.png" width="100%"/>
+</a>
+<br/><br/>
+<b><a href="https://qabrains.com/understanding-playwright-fixtures-theoretical-explanation">Understanding Playwright Fixtures</a></b>
+<br/>
+<sub>An analogy-driven look at how fixtures handle setup, use, and teardown to keep tests clean.</sub>
+</td>
+<td width="33%" valign="top" align="center">
+<a href="https://qabrains.com/automating-maven-tests-with-allure-reports-on-github-actions">
+<img src="https://qabrain-prod.s3.ap-south-1.amazonaws.com/blog/thumbnails/582-687411128cd22.png" width="100%"/>
+</a>
+<br/><br/>
+<b><a href="https://qabrains.com/automating-maven-tests-with-allure-reports-on-github-actions">Automating Maven Tests with Allure Reports on GitHub Actions</a></b>
+<br/>
+<sub>A step-by-step CI/CD walkthrough wiring a Maven suite into GitHub Actions with Allure reports on GitHub Pages.</sub>
+</td>
+<td width="33%" valign="top" align="center">
+<a href="https://qabrains.com/docker-for-qa-automation-engineers">
+<img src="https://qabrain-prod.s3.ap-south-1.amazonaws.com/blog/thumbnails/388-68127a365e268.png" width="100%"/>
+</a>
+<br/><br/>
+<b><a href="https://qabrains.com/docker-for-qa-automation-engineers">Docker for QA Automation Engineers</a></b>
+<br/>
+<sub>Why containerization solves environment consistency, parallel test runs, and CI/CD headaches for QA teams.</sub>
+</td>
+</tr>
+</table>
+
+---
+
 ### 🚀 Featured / In Progress
 
 | Project | Description | Status |
