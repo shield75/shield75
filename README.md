@@ -6,14 +6,14 @@
 </p>
 
 <p align="center">
+  <a href="https://anisur-rahman.base44.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2EA3F7?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/anisurrahmanlinked75/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:anisurcap75@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/shield75">
-    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-2EA3F7?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -191,7 +191,7 @@ Rather than treating web and mobile as separate silos, I run **Playwright and Ma
 | **Playwright MCP Test Agent** | AI-agent-driven web test explorer using Playwright's MCP server | 🚧 In progress |
 | **Maestro MCP Mobile Flows** | Conversational mobile test flow generation via Maestro MCP | 🚧 In progress |
 | **Unified Web+Mobile CI Gate** | Single pipeline running Playwright & Maestro suites in parallel with shared Xray reporting | 🚧 In progress |
-| **Portfolio Site** | Coming soon | 🔜 Planned |
+| **[Portfolio Website](https://anisur-rahman.base44.app/)** | Full showcase of experience, skills, certifications & writings | ✅ Live |
 
 ---
 
