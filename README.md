@@ -94,19 +94,20 @@ Rather than treating web and mobile as separate silos, I run **Playwright and Ma
 
 ---
 
-### 📊 GitHub Stats
+### 🧰 Core Automation Toolbelt
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shield75&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shield75&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shield75&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shield75&theme=tokyonight&no-frame=true&row=1&margin-w=15" />
+  <img width="60" title="Playwright" src="https://raw.githubusercontent.com/microsoft/playwright/main/docs/src/img/playwright-logo.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img width="60" title="Maestro" src="https://raw.githubusercontent.com/mobile-dev-inc/maestro/main/.github/assets/maestro_logo.png" />
+  &nbsp;&nbsp;&nbsp;
+  <img width="60" title="Selenium" src="https://raw.githubusercontent.com/SeleniumHQ/selenium/trunk/common/images/selenium_logo_square_green.png" />
+  &nbsp;&nbsp;&nbsp;
+  <img width="60" title="Appium" src="https://raw.githubusercontent.com/appium/appium/master/packages/appium/docs/overview/assets/images/appium-logo-horiz.png" />
+  &nbsp;&nbsp;&nbsp;
+  <img width="60" title="Docker" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img width="60" title="Jenkins" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
 </p>
 
 ---
