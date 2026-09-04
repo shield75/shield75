@@ -24,6 +24,18 @@
 
 ---
 
+### 📈 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shield75/shield75/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shield75/shield75/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shield75/shield75/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
 ### 👨‍💻 About Me
 
 I'm a **QA Automation Engineer** who lives at the intersection of **web and mobile testing** — designing frameworks that don't just click buttons, but think about *what breaks, why it breaks, and how to catch it before production does*.
@@ -97,17 +109,12 @@ Rather than treating web and mobile as separate silos, I run **Playwright and Ma
 ### 🧰 Core Automation Toolbelt
 
 <p align="center">
-  <img width="60" title="Playwright" src="https://raw.githubusercontent.com/microsoft/playwright/main/docs/src/img/playwright-logo.svg" />
-  &nbsp;&nbsp;&nbsp;
-  <img width="60" title="Maestro" src="https://raw.githubusercontent.com/mobile-dev-inc/maestro/main/.github/assets/maestro_logo.png" />
-  &nbsp;&nbsp;&nbsp;
-  <img width="60" title="Selenium" src="https://raw.githubusercontent.com/SeleniumHQ/selenium/trunk/common/images/selenium_logo_square_green.png" />
-  &nbsp;&nbsp;&nbsp;
-  <img width="60" title="Appium" src="https://raw.githubusercontent.com/appium/appium/master/packages/appium/docs/overview/assets/images/appium-logo-horiz.png" />
-  &nbsp;&nbsp;&nbsp;
-  <img width="60" title="Docker" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />
-  &nbsp;&nbsp;&nbsp;
-  <img width="60" title="Jenkins" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maestro-FF6F00?style=for-the-badge&logo=mobile&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
 </p>
 
 ---
